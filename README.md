@@ -22,16 +22,15 @@ I struggled to get started building bots because of the lack of clear documentat
 
 Tools we are using & what they do:
 	
-	NodeJS- to run our code. NodeJS is javascript on the backend. Regardless of your opinions on which langugages are best currently the best open source tools for chatbots are in javascript so deal with it :)
+	1. NodeJS- to run our code. NodeJS is javascript on the backend. Regardless of your opinions on which langugages are best currently the best open source tools for chatbots are in javascript so deal with it :)
 
-	NPM- Node package manager. Think of this kind of like the app store on an iphone. It makes it really easy to pull in cool stuff to use in NodeJS.
+	2. NPM- Node package manager. Think of this kind of like the app store on an iphone. It makes it really easy to pull in cool stuff to use in NodeJS.
 
-	Text Editor- This will be used to edit the code I provide (most of which is open source thanks to Howdy.AI)
+	3. Text Editor- This will be used to edit the code I provide (most of which is open source thanks to Howdy.AI)
 
-	Facebook Developer Account - You need this to link your bot from running on your computer to hooking up to your facebook page you created.
+	4. Facebook Developer Account - You need this to link your bot from running on your computer to hooking up to your facebook page you created.
 
-	Facebook page- You hook your chatbot up to this. So when you visit "DukeBot" or whatever you named your bot you can get it to respond to you automatically.
+	5. Facebook page- You hook your chatbot up to this. So when you visit "DukeBot" or whatever you named your bot you can get it to respond to you automatically.
 
-	LocalTunnel- this is used to get secure callbacks approved on Facebook. If that doesn't make any sense just know it physically makes it possible for your code on your computer to connect to facebook. If that doesn't make sense just scream out loud bots suck and I will come help you!
+	6. LocalTunnel- this is used to get secure callbacks approved on Facebook. If that doesn't make any sense just know it physically makes it possible for your code on your computer to connect to facebook. If that doesn't make sense just scream out loud bots suck and I will come help you!
 
-	
