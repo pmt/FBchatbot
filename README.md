@@ -1,11 +1,12 @@
 # Duke2016 Facebook Messenger Chatbot README.md
 
-# Kameron Kales. I am a founder (along with Chris Comrie) of Glance. Glance is a chatbot company which helps students 
-# discover and view a day in the life working at startups. We work out of HQ Raleigh and live at Thinkhouse. In 
-# addition we were selected to be apart of the 2016 Innovators Program backed by Citrix and RedHat. 
+My name is Kameron Kales. I am a founder (along with Chris Comrie) of Glance. 
+Glance is a chatbot company which helps students discover and view a day in the life working at startups. 
+We work out of HQ Raleigh and live at Thinkhouse. 
+In addition we were selected to be apart of the 2016 Innovators Program backed by Citrix and RedHat. 
 
-# I can be reached at kameron@askglance.com. My cell phone number is 704-877-6219 or on facebook at 
-# facebook.com/kameron.kales
+I can be reached at kameron@askglance.com. My cell phone number is 704-877-6219 or on facebook at 
+facebook.com/kameron.kales
 
 ------------------------------------------------------------------------------------------------------------------------
 Things you will need for this talk:
