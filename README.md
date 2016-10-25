@@ -1,4 +1,4 @@
-# Duke2016 Facebook Messenger Chatbot README.md
+# Duke2016 Chatbot README.md
 
 My name is Kameron Kales. I am a founder (along with Chris Comrie) of Glance. 
 Glance is a chatbot company which helps students discover and view a day in the life working at startups. 
