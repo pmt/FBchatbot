@@ -42,7 +42,8 @@ Tools we are using & what they do:
 	you can get it to respond to you automatically.
 
 	6. LocalTunnel- this is used to get secure callbacks approved on Facebook. 
-	If that doesn't make any sense just know it physically makes it possible for your code on your computer to connect to facebook. If that doesn't make sense just scream out loud bots suck and I will come help you!
+	If that doesn't make any sense just know it physically makes it possible for your code on your computer 
+	to connect to facebook. If that doesn't make sense scream out loud bots suck and I will come help you!
 
 ------------------------------------------------------------------------------------------------------------------------
 
