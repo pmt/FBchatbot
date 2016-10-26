@@ -2,3 +2,9 @@ In our first step we need to install NodeJS, NPM, a text editor, sign in to face
 
 These tools enable us to edit our code, run our code and connect the code on our local machine to our facebook page. 
 I am going to be showing all of this as we go. 
+
+
+
+First cd into your desktop directory using cd desktop
+Second clone the github repo. 
+Third cd into the cloned github repo.
