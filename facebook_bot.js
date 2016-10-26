@@ -34,7 +34,7 @@ controller.on('tick', function(bot, event) {});
 
 controller.setupWebserver(process.env.port || 5000, function(err, webserver) {
     controller.createWebhookEndpoints(webserver, bot, function() {
-        console.log('ONLINE!'); //insert web server controls
+        console.log('ONLINE!');
 
     });
 });
