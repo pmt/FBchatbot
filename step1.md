@@ -8,7 +8,7 @@ Install a text editor
 
 Create the Facebook page you would like to have your bot live on.
 
-Install LocalTunnel
+Install LocalTunnel (localtunnel.me)
 
 
 
