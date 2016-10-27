@@ -22,6 +22,7 @@ Today we are going to build an extremely simple chatbot on facebook messenger. W
 
 If you are confused about any steps please shoot me a message!
 
+Please follow the tutorial via each step included.
 -----------------------------------------------------------------------------------------------------------------------
 
 Tools we are using & what they do:
