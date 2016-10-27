@@ -1,5 +1,5 @@
-var page_token = ("EAAFDdMjV31ABAD5rLLHgG1l8myCWC4Obqp9mR5jyQkZAFILdhCKa4QY5IYaisoHUD2ftGR9miifN9DCQiH7ZAePsdDV2ZAtZBZBV4SJzKmkGSwSRpAFquTvZA84d3FiDBcTO9SlenK2w1D42c1HvBTop97dthsIxYdEdjPYJTKlgZDZD");
-var verify_token = ("DukeBot");
+var page_token = ("insert your page_token from facebook here");
+var verify_token = ("insert your verify_token you set in fb developer console here");
 var bodyParser = require('body-parser');
 var express = require('express');
 var app = express();
