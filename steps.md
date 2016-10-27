@@ -25,10 +25,3 @@ Our overall flow required to create the bot:
 
 	22. After you have pasted that url everything should be good to go. Please hit submit and go to the facebook page of your new bot. 
 	23. Send a message to your bot saying hello.
-
-
-
-
-
-
-
