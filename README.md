@@ -33,17 +33,19 @@ Tools we are using & what they do:
 
 	3. Text Editor- This will be used to edit the code I provide 
 
-	4. Facebook Developer Account - You need this to link your bot from running on your computer
-	to hooking up to your facebook page you created. (developer.facebook.com)
-
-	5. Facebook page- You hook your chatbot up to this. 
-	So when you visit "DukeBot" you can get it to respond to you automatically.
-
-	6. LocalTunnel- this is used to get secure callbacks approved on Facebook. 
+	4. LocalTunnel- this is used to get secure callbacks approved on Facebook. 
 	If that doesn't make any sense just know it makes it possible for your code on your computer 
 	to connect to facebook. If that doesn't make sense scream out loud bots suck and I will come help you!
 
-------------------------------------------------------------------------------------------------------------------------
+	5. Facebook Developer Account - You need this to link your bot from running on your computer
+	to hooking up to your facebook page you created. (developer.facebook.com)
+
+	6. Facebook page- You hook your chatbot up to this. 
+	So when you visit "DukeBot" you can get it to respond to you automatically.
+
+	
+
+-----------------------------------------------------------------------------------------------------------------------
 
 
 
