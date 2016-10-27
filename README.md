@@ -20,7 +20,7 @@ Things you will need for this talk:
 
 Today we are going to build an extremely simple chatbot on facebook messenger. We are going to use a pretty good open source framework to handle a lot of the heavy lifting. Shout out to howdy.ai (https://github.com/howdyai/botkit) for the resource.
 
-I intend on walking us through how to build the bot but if 
+If you are confused about any steps please shoot me a message and I would be happy to help.
 
 -----------------------------------------------------------------------------------------------------------------------
 
