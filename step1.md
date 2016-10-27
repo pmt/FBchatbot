@@ -1,4 +1,4 @@
-Our overall flow required to create the bot: 
+To begin we must do the following!
 
 Install NodeJS 
 
