@@ -14,19 +14,15 @@ Things you will need for this talk:
 	1. NodeJS (install at https://nodejs.org/en/)
 	2. NPM (Should come with NodeJS)
 	3. Some sort of text editor (Im partial to Sublime but to each their own.)
-	4. Facebook Developer Account (https://developers.facebook.com/)
-	5. Facebook page where your chatbot will live. (Any page name will work! Have some fun with it)
-	6. Localtunnel (install at https://localtunnel.github.io/www/)
+	4. Localtunnel (install at https://localtunnel.github.io/www/)
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 
 Today we are going to build an extremely simple chatbot on facebook messenger. We are going to use a pretty good open source framework to handle a lot of the heavy lifting. Shout out to howdy.ai (https://github.com/howdyai/botkit) for the resource.
 
-I have included a "steps" folder which goes through each step needed to create a basic bot. I thought this could be helpful to anyone who likes to go really slow and fully understand every action we took and why.
+I intend on walking us through how to build the bot but if 
 
-I struggled to get started building bots because of the lack of clear documentation so for every step in this process forgive me if notes seem excessive. For those of you more technically inclined keep in mind those who are not!
-
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 
 Tools we are using & what they do:
 	
@@ -38,7 +34,7 @@ Tools we are using & what they do:
 	3. Text Editor- This will be used to edit the code I provide 
 
 	4. Facebook Developer Account - You need this to link your bot from running on your computer
-	to hooking up to your facebook page you created.
+	to hooking up to your facebook page you created. (developer.facebook.com)
 
 	5. Facebook page- You hook your chatbot up to this. 
 	So when you visit "DukeBot" you can get it to respond to you automatically.
