@@ -48,6 +48,20 @@ Tools we are using & what they do:
 
 -----------------------------------------------------------------------------------------------------------------------
 
+## Step 1:
+To begin we must do the following!
+
+* Install NodeJS: https://nodejs.org/en/download/
+
+* Install NPM (Should come with NodeJS, so don't worry too much about this step.)
+
+* Install a text editor (Sublime, vim, emacs -- anything works)
+
+* Install LocalTunnel (https://localtunnel.github.io/www/). Don't run the command to start LocalTunnel, yet!
+
+## Step 2:
+* Create the Facebook page you would like to have your bot live on. 
+The "create page" option is on the left-hand side of your news feed.
 
 
 
