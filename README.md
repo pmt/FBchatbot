@@ -107,3 +107,19 @@ git clone *YOUR LINK*
 * In the popup, leave "Callback URL" blank for now. Your "Verify Token" may be anything you like (don't use any password you've ever used). As for "Subscription Fields," select every "Messenger"-related option.
 
 * In your ```facebook_bot.js``` file, add the "Verify Token" you used to the "verify_token" field.
+
+## Step 6
+* Open a new terminal. In your new terminal window, enter the command
+```lt --port 5000```
+
+* Copy the resulting URL.
+
+* Enter the URL back on the Webhooks Callback URL. **NOTE** that you need to modify the URL in two places: First, add an "s" to the "http://" so that it reads "https://". Second, add "/facebook/receive" to the end of the URL.
+
+* Press "Verify and Save."
+
+## Step 7
+* Return to your original terminal. Enter the command ```node facebook_bot.js```
+
+## Step 8
+* You're done! Go to the Facebook page you set up and send it the message, "Hello"!
