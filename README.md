@@ -100,3 +100,10 @@ git clone *YOUR LINK*
 ![token generation](https://cloud.githubusercontent.com/assets/4122993/20243276/30b3e378-a91f-11e6-9b1e-d30c96a1c425.png)
 
 * Finally, add this generated token to your ```facebook_bot.js``` file via your text editor.
+
+## Step 5
+* Back on the Product Setup page, add "Webhooks" to your app.
+
+* In the popup, leave "Callback URL" blank for now. Your "Verify Token" may be anything you like (don't use any password you've ever used). As for "Subscription Fields," select every "Messenger"-related option.
+
+* In your ```facebook_bot.js``` file, add the "Verify Token" you used to the "verify_token" field.
